@@ -37,12 +37,6 @@
   width: 140px;
 }
 
-.header__logo {
-  display: block;
-  width: 137px;
-  height: 100%;
-}
-
 .header__adress {
   font-style: normal;
   justify-self: end;
